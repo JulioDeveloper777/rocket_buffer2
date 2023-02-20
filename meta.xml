@@ -1,0 +1,14 @@
+<meta>
+  <info author="flashii" version="1.0.0" name="rocket_buffer2" />
+
+
+  <script src="src/config/config.lua" type="shared" />
+
+
+  <script src="src/core/client/core.lua" type="client" />
+  <script src="src/core/client/listener.lua" type="client" />
+
+
+
+  <script src="src/core/server/server.lua" type="server" />
+</meta>
